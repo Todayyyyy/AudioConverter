@@ -1,0 +1,17 @@
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\bin\Debug\SoundFormConverter.exe.config
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\bin\Debug\SoundFormConverter.exe
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\bin\Debug\SoundFormConverter.pdb
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\bin\Debug\System.Security.AccessControl.dll
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\bin\Debug\System.Security.AccessControl.xml
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\obj\Debug\SoundFormConverter.csproj.AssemblyReference.cache
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\obj\Debug\SoundFormConverter.Converter.resources
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\obj\Debug\SoundFormConverter.Properties.Resources.resources
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\obj\Debug\SoundFormConverter.csproj.GenerateResource.cache
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\obj\Debug\SoundFormConverter.csproj.CoreCompileInputs.cache
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\obj\Debug\SoundFor.DA54D4F8.Up2Date
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\obj\Debug\SoundFormConverter.exe
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\obj\Debug\SoundFormConverter.pdb

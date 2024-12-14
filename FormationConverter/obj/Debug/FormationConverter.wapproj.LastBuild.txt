@@ -1,0 +1,14 @@
+C:\Users\WYCM\source\repos\SoundFormConverter\FormationConverter\Images\SplashScreen.scale-200.png
+C:\Users\WYCM\source\repos\SoundFormConverter\FormationConverter\Images\LockScreenLogo.scale-200.png
+C:\Users\WYCM\source\repos\SoundFormConverter\FormationConverter\Images\Square150x150Logo.scale-200.png
+C:\Users\WYCM\source\repos\SoundFormConverter\FormationConverter\Images\Square44x44Logo.scale-200.png
+C:\Users\WYCM\source\repos\SoundFormConverter\FormationConverter\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\WYCM\source\repos\SoundFormConverter\FormationConverter\Images\StoreLogo.png
+C:\Users\WYCM\source\repos\SoundFormConverter\FormationConverter\Images\Wide310x150Logo.scale-200.png
+C:\Users\WYCM\source\repos\SoundFormConverter\FormationConverter\bin\AnyCPU\Debug\resources.pri
+C:\Users\WYCM\source\repos\SoundFormConverter\packages\Microsoft.Win32.Registry.4.7.0\lib\net461\Microsoft.Win32.Registry.dll
+C:\Users\WYCM\source\repos\SoundFormConverter\packages\System.Security.AccessControl.4.7.0\lib\net461\System.Security.AccessControl.dll
+C:\Users\WYCM\source\repos\SoundFormConverter\packages\System.Security.Principal.Windows.4.7.0\lib\net461\System.Security.Principal.Windows.dll
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\bin\Debug\SoundFormConverter.exe
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\bin\Debug\SoundFormConverter.exe.config
+C:\Users\WYCM\source\repos\SoundFormConverter\SoundFormConverter\bin\Debug\SoundFormConverter.pdb
